@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Fruit Recognition',
+      title: 'Food Recognition',
       home: Home(),
       debugShowCheckedModeBanner: false,
     );
